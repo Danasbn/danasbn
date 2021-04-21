@@ -27,6 +27,7 @@ A list of technologies covered during my training:
 |Php     | Vuetify       | Mac      |Mvc pattern    |
 |Javascript     | Bootstrap       | Ubuntu/Debian      |Trello    |
 |    | Wordpress       |      | Full remote ready    |
+|    |      |      | Slack, Discord, VSCode    |
 
 
 
