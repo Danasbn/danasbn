@@ -57,7 +57,7 @@ A list of frequently asked questions
    
     O’clock - telepresential training  - Labeled 'Grande Ecole du Numérique'
 
-    From {October 2020} to April 2021
+    From October 2020 to April 2021
     700 intensive hours  
     * First 3 months : HTML5/CSS3/PHP/Javascript  
     * Fourth month: WordPress specialization  
