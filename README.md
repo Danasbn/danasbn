@@ -74,10 +74,10 @@ A list of frequently asked questions
 
 3. **Do you have you something to show us ?**  
 You can check my portfolio on https://dandev.fr/ for updates.
+
 At the end of my training, I realized this website *[Le Houblon Gourmand](http://houblon-gourmand.dandev.fr/)*. 
 >Custom post types, custom meta-fields, custom meta-datas, custom tables, custom plugin & custom theme.  
     We used two external plugins as we where running out of time ( AgeGate for majority validation & WPDataAccess for back office view of our custom tables).
-You can check my portfolio on https://dandev.fr/ for updates.
 4. **What do you need to learn ?**  
     Many frameworks such as Vue.js, React, Angular & Node.js interest me.
     I've used some Vue.js in my portfolio and in the houblon gourmand project, for the customer's notation.
