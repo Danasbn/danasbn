@@ -47,7 +47,7 @@ Side information: To use myself in a special environment such as full remote, us
 ***
 How to reach me.
 * Start by a phone call ```06.58.57.97.99```. 
-* Mail works fine too ```devnad27@gmail.com```
+* Mail works fine too ```danlookjob@gmail.com```
 > This is the way you do it. So try and meet me asap !
 ## FAQs
 ***
@@ -68,16 +68,18 @@ A list of frequently asked questions
 3. **Are you motivated ?**  
     Rather than just answering yes, let me detail:
    * I choosed this professional retraining.
-   * I worked hard for the last 5 months in order to be able to start this new professional career.
+   * I worked hard for 5 months in order to be able to start this new professional career.
    * I'm here to learn and to improve myself, every day is a new learning opportunity.
   > Yes, I am !
 
 3. **Do you have you something to show us ?**  
-At the end of my training, I realized this website *[Le Houblon Gourmand](http://ec2-54-204-68-73.compute-1.amazonaws.com/benouze/public/)*. 
+You can check my portfolio on https://dandev.fr/ for updates.
+At the end of my training, I realized this website *[Le Houblon Gourmand](http://houblon-gourmand.dandev.fr/)*. 
 >Custom post types, custom meta-fields, custom meta-datas, custom tables, custom plugin & custom theme.  
     We used two external plugins as we where running out of time ( AgeGate for majority validation & WPDataAccess for back office view of our custom tables).
+You can check my portfolio on https://dandev.fr/ for updates.
 4. **What do you need to learn ?**  
     Many frameworks such as Vue.js, React, Angular & Node.js interest me.
-    I've used some Vue.js in my project for the customer's notation.
+    I've used some Vue.js in my portfolio and in the houblon gourmand project, for the customer's notation.
 5. **When will you be available ?**  
-I can start working on monday May 03, 2021. 
+I can start working within a week. 
