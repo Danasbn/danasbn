@@ -14,7 +14,7 @@
 I hereby submit my application for the position of Wordpress Developer in your company.  
 After my carefully considered decision to retrain myself professionally in IT, I gave myself the means to train myself in web development.
 ### Selfie 
-https://dandev.fr/
+https://www.dandev.fr/
 
 https://www.linkedin.com/in/danassaban/
 ## Technologies
