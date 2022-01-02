@@ -73,7 +73,7 @@ A list of frequently asked questions
   > Yes, I am !
 
 3. **Do you have you something to show us ?**  
-You can check my portfolio on https://dandev.fr/ for updates.
+You can check my portfolio on https://www.dandev.fr/ for updates.
 
 At the end of my training, I realized this website *[Le Houblon Gourmand](http://houblon-gourmand.dandev.fr/)*. 
 >Custom post types, custom meta-fields, custom meta-datas, custom tables, custom plugin & custom theme.  
